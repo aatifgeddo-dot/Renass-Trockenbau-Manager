@@ -24,6 +24,5 @@ Haben Sie Fragen zu Ihrem Bauvorhaben oder wünschen Sie ein unverbindliches Ang
 
 ## 💻 Technischer Hinweis (Entwicklung)
 * Hauptdatei: `index.html`
-* Logo-Asset: `IMG_0704.png` (im Footer eingebunden)
-
+</footer>
 
