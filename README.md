@@ -16,7 +16,7 @@ Haben Sie Fragen zu Ihrem Bauvorhaben oder wünschen Sie ein unverbindliches Ang
 
 * **Unternehmen:** RENASS TROCKENBAU (Meisterbetrieb)
 * **Adresse:** Kiefernpfad & 9, 30657 Hannover, Niedersachsen
-* **Telefon:** +49 (0) 17630699702
+* **Telefon:** +49 17630699702
 * **E-Mail:** info@renass-trockenbau.de
 * **Einsatzgebiet:** Hannover und ganz Niedersachsen
 
