@@ -26,7 +26,9 @@ Haben Sie Fragen zu Ihrem Bauvorhaben oder wünschen Sie ein unverbindliches Ang
 * Hauptdatei: `index.html`
   <footer>
 <p>© 2026 RENASS TROCKENBAU MANAGER (Meisterbetrieb). Alle Rechte Vorbehalten.</p>
+
 <p>
+  
 <a href=""imprtssum.html">Imperssum</a>
 <a href="datenschutz.html">Datenschutzerklärung</a>
 </p>
