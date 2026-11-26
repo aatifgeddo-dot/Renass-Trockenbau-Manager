@@ -27,13 +27,13 @@ Haben Sie Fragen zu Ihrem Bauvorhaben oder wünschen Sie ein unverbindliches Ang
   <footer>
 <p>© 2026 RENASS TROCKENBAU MANAGER (Meisterbetrieb). Alle Rechte Vorbehalten.</p>
 <p>
-  <a href=""imprtssum.html">Imperssum</a>
+  <a href=""impretssum.html">Impressum</a>
 <a href="datenschutz.html">Datenschutzerklärung</a>
 </p>
 </footer>
 
 * **Status & Technologien:** Aktull in Entwicklung (HTML5/CSS3) - Fokus auf responsives Webdesign für  mobile Endgeräte.
-* **Hinweis zur Nutzug:** Dieses Repository dient ausschleßlich als Lren- und Entwicklungsprojekt; alle INhalte sind vorläufig.
+* **Hinweis zur Nutzug:** Dieses Repository dient ausschleßlich als Lern- und Entwicklungsprojekt; alle Inhalte sind vorläufig.
 
 
 
