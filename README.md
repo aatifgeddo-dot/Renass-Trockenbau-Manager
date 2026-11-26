@@ -32,7 +32,7 @@ Haben Sie Fragen zu Ihrem Bauvorhaben oder wünschen Sie ein unverbindliches Ang
 </p>
 </footer>
 
-* **Status & Technologien:** Aktull in Entwicklung (HTML5/CSS3) - Fokus auf responsives Webdesign für  Mobile Endgeräte.
+* **Status & Technologien:** Aktull in Entwicklung (HTML5/CSS3) - Fokus auf responsives Webdesign für  mobile Endgeräte.
 * **Hinweis zur Nutzug:** Dieses Repository dient ausschleßlich als Lren- und Entwicklungsprojekt; alle INhalte sind vorläufig.
 
 
