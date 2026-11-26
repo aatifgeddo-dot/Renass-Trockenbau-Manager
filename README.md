@@ -24,12 +24,15 @@ Haben Sie Fragen zu Ihrem Bauvorhaben oder wünschen Sie ein unverbindliches Ang
 
 ## 💻 Technischer Hinweis (Entwicklung)
 * Hauptdatei: `index.html`
-</footr>© 2026 RENASS TROCKENBAU MANAGER (Meisterbetrieb). Alle Rechte Vorbehalten.</p>
+  <footer>
+<p>© 2026 RENASS TROCKENBAU MANAGER (Meisterbetrieb). Alle Rechte Vorbehalten.</p>
 <p>
 <a href=""imprtssum.html">Imperssum</a>
-<a href="datenschutz.html">Aatenschutzerklärung</a>
+<a href="datenschutz.html">Datenschutzerklärung</a>
 </p>
 </footer>
+* **Status & Technologien:** Aktull in Entwicklung (HTML5/CSS3) - Fokus auf responsives Webdesign für  Mobile Endgeräte.
+* **Hinweis zur Nutzug:** Dieses Repository dient ausschleßlich als Lren- und Entwicklungsprojekt; alle INhalte sind vorläufig.
 
 
 
