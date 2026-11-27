@@ -32,8 +32,8 @@ Haben Sie Fragen zu Ihrem Bauvorhaben oder wünschen Sie ein unverbindliches Ang
 </p>
 </footer>
 
-* **Status & Technologien:** Aktull in Entwicklung (HTML5/CSS3) - Fokus auf responsives Webdesign für  mobile Endgeräte.
-* **Hinweis zur Nutzug:** Dieses Repository dient ausschleßlich als Lern- und Entwicklungsprojekt; alle Inhalte sind vorläufig.
+* **Status & Technologien:** Aktuell in Entwicklung (HTML5/CSS3) - Fokus auf Responsives Webdesign für  mobile Endgeräte.
+* **Hinweis zur Nutzung:** Dieses Repository dient ausschleßlich als Lern- und Entwicklungsprojekt; alle Inhalte sind vorläufig.
 * Github | Impressum | Datenschutz
 
   
